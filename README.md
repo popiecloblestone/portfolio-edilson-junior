@@ -2,7 +2,7 @@
 
 Portfólio pessoal de desenvolvimento web, com projetos para negócios, experiências interativas e contato direto.
 
-[Acessar o portfólio](https://popiecloblestone.github.io/portfolio-edilson-junior/)
+Projeto estático pronto para executar localmente ou hospedar.
 
 ![Prévia do portfólio](preview.jpg)
 
